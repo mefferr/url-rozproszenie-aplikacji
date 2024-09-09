@@ -1,0 +1,2 @@
+# url-rozproszenie-aplikacji
+ 
